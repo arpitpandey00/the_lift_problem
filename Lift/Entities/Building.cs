@@ -22,6 +22,7 @@ namespace Lift.Entities
 
             Lift.LiftArriverAtAFloor += LiftArrivedAtAFloor;
         }
+        public Building(){}
 
         public void LiftRequested(Direction direction, int floorNumberRequestedOn)
         {
