@@ -27,15 +27,20 @@ namespace Lift.Entities
             this.DestinationFloor = destinationFloor;
             this.WaitingStatus = WaitingStatus.Waiting;
         }
-        public Person()
-        {
-
-        }
 
         public void PressButton()
         {
             this.ButtonPressed(this.DirectionToGoIn);
+        }
 
+        public void SetReached()
+        {
+            this.WaitingStatus = WaitingStatus.Reached;
+        }
+
+        public void SetOnboard()
+        {
+            this.WaitingStatus = WaitingStatus.BoardedLift;
         }
     }
 }
