@@ -25,13 +25,13 @@ namespace Lift.Entities
 
         public void LiftRequested(Direction direction, int floorNumberRequestedOn)
         {
-
         }
 
         public void LiftArrivedAtAFloor(int floorNumber)
         {
             var floor = this.Floors.Single(floor => floor.FloorNumber == floorNumber);
             floor.LiftHasArrived(this.Lift);
+           
         }
     }
 }

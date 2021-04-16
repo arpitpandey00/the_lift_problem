@@ -25,6 +25,7 @@ namespace Lift.Entities
             }).ToList();
             this.PeopleBelongToTheFloor = new List<Person>();
         }
+        public Floor() { }
 
         public void ButtonPress(Direction direction)
         {
