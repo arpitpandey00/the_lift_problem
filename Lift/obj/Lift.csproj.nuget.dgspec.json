@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\S S INFOTECH\\OneDrive - Taazaa Tech Pvt Ltd\\traning\\assignment_1(WFH)\\the-lift\\Lift\\Lift.csproj": {}
+    "C:\\Users\\S S INFOTECH\\source\\repos\\assignment_1(WFH)\\the_lift_problem\\Lift\\Lift.csproj": {}
   },
   "projects": {
-    "C:\\Users\\S S INFOTECH\\OneDrive - Taazaa Tech Pvt Ltd\\traning\\assignment_1(WFH)\\the-lift\\Lift\\Lift.csproj": {
+    "C:\\Users\\S S INFOTECH\\source\\repos\\assignment_1(WFH)\\the_lift_problem\\Lift\\Lift.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\S S INFOTECH\\OneDrive - Taazaa Tech Pvt Ltd\\traning\\assignment_1(WFH)\\the-lift\\Lift\\Lift.csproj",
+        "projectUniqueName": "C:\\Users\\S S INFOTECH\\source\\repos\\assignment_1(WFH)\\the_lift_problem\\Lift\\Lift.csproj",
         "projectName": "Lift",
-        "projectPath": "C:\\Users\\S S INFOTECH\\OneDrive - Taazaa Tech Pvt Ltd\\traning\\assignment_1(WFH)\\the-lift\\Lift\\Lift.csproj",
+        "projectPath": "C:\\Users\\S S INFOTECH\\source\\repos\\assignment_1(WFH)\\the_lift_problem\\Lift\\Lift.csproj",
         "packagesPath": "C:\\Users\\S S INFOTECH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\S S INFOTECH\\OneDrive - Taazaa Tech Pvt Ltd\\traning\\assignment_1(WFH)\\the-lift\\Lift\\obj\\",
+        "outputPath": "C:\\Users\\S S INFOTECH\\source\\repos\\assignment_1(WFH)\\the_lift_problem\\Lift\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
